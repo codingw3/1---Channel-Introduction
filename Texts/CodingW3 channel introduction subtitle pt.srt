@@ -1,0 +1,31 @@
+1
+00:00:00.000 --> 00:00:06.000
+Bem-vindo à @CodingW3.
+
+2
+00:00:06.000 --> 00:00:13.000
+Seu destino final para desenvolvimento web e inovação tecnológica.
+
+3
+00:00:13.000 --> 00:00:19.000
+Aqui, exploramos o fascinante mundo do desenvolvimento web.
+
+4
+00:00:19.000 --> 00:00:27.000
+Nossos vídeos são projetados para transformar iniciantes em desenvolvedores web talentosos.
+
+5
+00:00:27.000 --> 00:00:34.000
+E também incentivamos a colaboração e o compartilhamento de projetos de código aberto.
+
+6
+00:00:34.000 --> 00:00:40.000
+Aqui, seu potencial é ilimitado. Vamos transformar ideias em realidade.
+
+7
+00:00:40.000 --> 00:00:50.000
+Junte-se à nossa comunidade diversificada e faça parte desta emocionante jornada. @CodingW3.
+
+8
+00:00:50.000 --> 00:00:59.000
+Obrigado por assistir.

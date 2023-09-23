@@ -1,0 +1,32 @@
+1
+00:00:00,000 --> 00:00:06,000
+Welcome to coding W3.
+
+2
+00:00:06,000 --> 00:00:13,000
+Your ultimate destination for web development and technology innovation.
+
+3
+00:00:13,000 --> 00:00:19,000
+Here, we explore the fascinating world of web development.
+
+4
+00:00:19,000 --> 00:00:27,000
+Our videos are designed to turn beginners into talented web developers.
+
+5
+00:00:27,000 --> 00:00:34,000
+And we also encourage collaboration and sharing of open source projects.
+
+6
+00:00:34,000 --> 00:00:40,000
+Here, your potential is limitless. Let's turn ideas into reality.
+
+7
+00:00:40,000 --> 00:00:50,000
+Join our diverse community and be part of this exciting journey at coding W3.
+
+8
+00:00:50,000 --> 00:00:59,000
+Thanks for watching.
+
